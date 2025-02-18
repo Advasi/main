@@ -6,3 +6,5 @@ const Payment="Integrated the Payment Gateway";
 console.log(Payment);
 const upi="Integrated the UPI";
 console.log(upi);
+const footer="Footer added in our Website";
+console.log(footer);
