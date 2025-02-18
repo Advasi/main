@@ -10,4 +10,4 @@ const footer="Footer added in our Website";
 console.log(footer);
 const fot="Hello I am Footer";
 console.log(fot);
- 
+console.log("Hello Ram")
