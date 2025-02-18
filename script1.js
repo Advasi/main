@@ -8,3 +8,6 @@ const upi="Integrated the UPI";
 console.log(upi);
 const footer="Footer added in our Website";
 console.log(footer);
+const fot="Hello I am Footer";
+console.log(fot);
+ 
